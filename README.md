@@ -48,7 +48,7 @@ const muhammad = {
 
 - 🔭 Hozir **REAL MAFIA** — Telegram'dagi multiplayer o'yin platformasi ustida ishlayapman
 - 🌱 **Backend arxitektura** va **real-time tizimlar**ni chuqurroq o'rganyapman
-- 🤖 Asosiy yo'nalishim: **Telegram botlar va Mini Web App**lar
+- 🤖 Asosiy yo'nalishim: **Telegram botlar,  Web va Mini Web App, **lar
 - 💬 **JavaScript, TypeScript, Node.js, Python, PostgreSQL** bo'yicha savol bering
 - ⚡ Fun fact: eng yaxshi loyihalarim o'zimning muammolarimdan tug'ilgan
 
@@ -166,14 +166,6 @@ const muhammad = {
 
 ---
 
-## 🎯 2026 maqsadlarim
-
-- [ ] REAL MAFIA'ni MVP darajasida ishga tushirish
-- [ ] Comfort UZB'ni real serverda deploy qilib, do'konga topshirish
-- [ ] CodePath uchun MVP tayyorlash
-- [ ] Docker va deploy jarayonlarini mustahkam egallash
-- [ ] Open source loyihaga hissa qo'shish
-- [ ] O'zbek tilida dasturlash bo'yicha kontent yuritishni boshlash
 
 ---
 
